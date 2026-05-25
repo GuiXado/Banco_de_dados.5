@@ -1,7 +1,7 @@
 # Banco_de_dados.5
 ## Joins SQL
 
-Continuação da atividade https://github.com/GuiXado/Banco_de_dados.3
+Continuação da atividade https://github.com/GuiXado/Banco_de_dados.4
 
 Fazer:
 
