@@ -6,7 +6,7 @@ Continuação da atividade https://github.com/GuiXado/Banco_de_dados.3
 Fazer:
 
 a) Adicionar User
-(6; Joao; Ti_joao; 123mudar; joao@empresa.com)
+(6; Joao; Ti_joao; 123mudar; `joao@empresa.com`)
 
 b) Adicionar Project
 (10004; Atualização de Sistemas; Modificação de Sistemas Operacionais nos PC's; 12/09/2014)Exercícios DDL e DML – Banco de Dados Fatec ZL
